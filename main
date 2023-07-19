@@ -1,0 +1,2 @@
+#This code needs to be used inside the Terminal/Command Prompt in Windows PC. There may be a different way of doing this using "grep" in Linux/Mac OS.
+findstr /s /i /m "TestResult_Variance" "C:\Users\Joyjit\Documents\*.*"
